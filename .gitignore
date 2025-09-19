@@ -95,3 +95,6 @@ logs/
 uploads/
 downloads/
 cache/
+
+# Project specific
+CLAUDE.md
